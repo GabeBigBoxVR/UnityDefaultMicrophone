@@ -1,9 +1,0 @@
-﻿  stdafx.cpp
-  dllmain.cpp
-  UnityMicLister.cpp
-     Creating library C:\src\UnityMicLister\UnityMicLister\Release\UnityMicLister.lib and object C:\src\UnityMicLister\UnityMicLister\Release\UnityMicLister.exp
-  Generating code
-  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  UnityMicLister.vcxproj -> C:\src\UnityMicLister\UnityMicLister\Release\UnityMicLister.dll
-  UnityMicLister.vcxproj -> C:\src\UnityMicLister\UnityMicLister\Release\UnityMicLister.pdb (Full PDB)
