@@ -30,3 +30,6 @@ This is a native binary that allows Unity developers to ask Windows what is the 
         }
     } 
 ```
+
+# License
+[MIT License](LICENSE)
