@@ -1,5 +1,5 @@
 # What Is This?
-This is a native binary that allows Unity developers to ask Windows what is the currently default microphone.  Currently Unity doesn't seem to support this, so I wrote this wrapper that asks Windows directly.  This is useful for users who have a computer with more than one microphone and they can set it through the SteamVR audio preferences.
+This is a native binary that allows Unity developers to ask Windows what is the currently default microphone.  Currently Unity doesn't seem to support this, so I wrote this wrapper that asks Windows directly.  This is useful for users who have a computer with more than one microphone and they can set it through the SteamVR audio preferences or Windows Audio Controls.  PS: I wrote this specifically for VR, but it works just fine for regular Windows apps too.
 
 # How To Get Started
 * Download the latest release and copy the files from x86 and x86_64 into your Assets/Plugins/x86 and Assets/Plugins/x86_x64 folders respectively
